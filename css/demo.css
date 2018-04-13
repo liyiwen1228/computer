@@ -1,0 +1,113 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 14:59:56
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-08 20:01:40
+*/
+body{
+
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	position: relative;
+	margin: 0 auto;
+height: 888px;
+width: 500px;
+background:#F0F0F0;
+}
+.head{
+width: 500px;
+height: 78px;
+
+background:#00A5C4;
+}
+.head span{
+font-weight: bold;
+color: #fff;
+font-size: 26px;
+line-height: 78px;
+margin-left: 17px;
+}
+.head div{
+width: 7px;
+height: 25px;
+background: #fff;
+float: right;
+margin:26px 30px 0 0;
+}
+.botton_3{
+
+	height: 259px;
+}
+.shu{
+	width: 3px;
+	height: 77px;
+	background: #41B9D0;
+	float: right;
+	margin-top: 8px;
+	margin-right: 16px;
+}
+.bottom{
+width: 500px;
+height: 504px;
+background: #dde2e3;
+position: absolute;
+bottom: 0;
+}
+.bottom div{
+	
+	
+}
+
+.button_1{
+width: 500px;
+height: 34px;
+ /* position: absolute;
+top: 289px;
+left: 0px;  */
+}
+.button_1 input{
+width: 500px;
+height: 47px;
+border: none;
+background: #DFE3E4;	
+}
+.button_2{
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 2px;
+
+width: 123px;
+height: 99px;
+background:#F0f0f0;
+
+border: none;
+/* padding: 0px; */
+}
+.button_2:hover{
+
+	background:#ccc;
+}
+.button_2 img{
+
+	background:#ccc;
+}
+.button_2_1{
+	margin-right: 2px;
+	
+}
+.button_2_2{
+	margin-right: 0px;
+width: 125px;
+}
+.button_2 span{
+	display: block;
+	line-height: 99px;
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 40px;
+	width: 123px;
+	height: 99px;
+	color: #21555f;
+}
